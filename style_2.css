@@ -13,3 +13,10 @@ body{
 .footer{
 	background-color: #4cbdfe;
 }
+
+/*
+CSS3 flexbox
+
+vh 为相对视窗的高度
+vw 则为相对视窗的宽度
+*/
